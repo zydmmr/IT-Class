@@ -1,4 +1,10 @@
 ini link nya ustadz:
 
 https://www.youtube.com/watch?v=VcwN0nms30I
+  Ini video mengenai roadmap oleh Sandhika galih untuk menjadi fullstack
+
 https://www.w3schools.com/w3css/w3css_templates.asp
+  Di website ini saya bisa mendapatkan template website yang baru menggunakan html dan css.
+
+Jadi pada pekan ini sampai pekan depan saya akan mempelajari css
+Lalu memperkuat html dan dibarengi dengan css
